@@ -26,18 +26,14 @@ Ideal for learners, teachers, and developers who want to see algorithms in actio
 
 ## 📦 Installation
 
-To get started locally:
-
 ```bash
-git clone https://github.com/your-username/AlgorithmVisualizer.git
 
 cd AlgorithmVisualizer
 
 npm install
 
-npm run dev 
-
-'''
+npm run dev
+```
 --- 
 
 ## 🌐 Live Demo
@@ -46,14 +42,15 @@ npm run dev
 ---
 
 ## 📸 Screenshots
+![Screenshot from 2025-06-26 01-59-26](https://github.com/user-attachments/assets/0f0192be-fbfc-43b6-a470-6006a19233eb)
 
-Add screenshots or GIFs of your visualizer here for better presentation!
+
 
 ---
 
 ## 🏗 Project Structure
 
-'''bash
+```bash
 AlgorithmVisualizer/
 ├── public/
 ├── screenshots/ # Add your screenshots here
@@ -78,4 +75,10 @@ AlgorithmVisualizer/
 ├── package.json
 ├── package-lock.json
 └── README.md 
-'''
+```
+📫 Contact
+Shivam Rajput
+
+GitHub: shivamrajputa400
+
+LinkedIn: [https://www.linkedin.com/in/shivam-rajput-23a695201/]
