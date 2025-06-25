@@ -81,4 +81,4 @@ Shivam Rajput
 
 GitHub: shivamrajputa400
 
-LinkedIn: [https://www.linkedin.com/in/shivam-rajput-23a695201/]
+LinkedIn: https://www.linkedin.com/in/shivam-rajput-23a695201/
