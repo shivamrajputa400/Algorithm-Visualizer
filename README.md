@@ -76,7 +76,7 @@ AlgorithmVisualizer/
 ├── package-lock.json
 └── README.md 
 ```
-📫 Contact
+## 📫 Contact
 Shivam Rajput
 
 GitHub: shivamrajputa400
